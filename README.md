@@ -15,6 +15,12 @@ El proyecto se entrega vacío, sin ninguna implementación. Los alumnos deberán
 correctamente y cumpla con los requerimientos solicitados. Es muy importante que las APIs expuestas cumplan con los
 contratos definidos.
 
+Imagen de docker del front end **ghcr.io/tup-utn-frc-lciii/flight-check-in-front-end:buildcache**
+
+```
+docker pull ghcr.io/tup-utn-frc-lciii/flight-check-in-front-end:buildcache
+```
+
 ---
 
 ## Requerimientos funcionales
