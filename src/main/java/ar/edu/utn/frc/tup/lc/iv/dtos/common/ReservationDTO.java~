@@ -1,0 +1,22 @@
+package ar.edu.utn.frc.tup.lc.iv.dtos.common;
+
+public class ReservationDTO {
+
+    private String id;
+    private ReservationStatus status;
+
+    private String flight;
+    private List<PassengerDTO> passengers;
+
+      {
+        "name": "Diego Maradona",
+        "seat": ""
+      },
+      {
+        "name": "Guillermo Coppola",
+        "seat": ""
+      }
+    ]
+  }'
+     */
+}
